@@ -1,4 +1,5 @@
-<h1>Cryptocurrency quote panel App.</h1>
+<h1>Cryptocurrency App.</h1>
+This is a cryptocurrency app made with React for cuotes of cryptocurrencies
 
 Get sarted!<br>
 
