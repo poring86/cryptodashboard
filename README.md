@@ -1,19 +1,28 @@
-<<<<<<< HEAD
-<h1>Cryptocurrency App.</h1>
-This is a cryptocurrency app made with React for cuotes of cryptocurrencies
+## Description
 
-Get sarted!<br>
+This is a cryptocurrency app made with React for cuotes of cryptocurrencies.
 
-Clone the repository
-run <strong>npm run build</strong> <br>
-run <strong>npm run start</strong> <br>
-then you will see on <strong>localhost:8080</strong>
-=======
-Cryptocurrency quote panel App. 
+![Alt text](image.png)
 
-Get sarted!
+![Alt text](image-1.png)
 
-run npm build
-run npm start
-then you will see on localhost:8080
->>>>>>> 696f355 (feat: :sparkles: Docker)
+## Pre requisites
+
+Have docker instaled on your machine
+
+## Used tecnologies
+
+- React
+- Cryptocompare
+- Styled Components
+- React Highcharts
+- Docker
+
+## Get started
+
+```bash
+# Run the application
+$ docker compose up
+```
+
+Go to https://localhost:3000
